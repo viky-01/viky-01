@@ -1,6 +1,12 @@
 ## Hi 👋! My name is Vikash Kumar and I'm a Sophomore Computer Application major, from India
 I am exploring various fields of computer science, with a strong focus on Web Development. I am highly proficient in the MERN stack and have worked on multiple decentralized applications and AI-based solutions.
 
+### Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+
 <!--
 **viky-01/viky-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
