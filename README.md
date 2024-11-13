@@ -4,7 +4,7 @@ I am exploring various fields of computer science, with a strong focus on Web De
 ### Skills
 <p>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" style="margin-right: 60px"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" style="margin-right: 60px"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" style="margin-right: 100px"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" style="margin-right: 60px"/>
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="40" style="margin-right: 60px"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" style="margin-right: 60px"/>
