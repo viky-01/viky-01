@@ -1,5 +1,5 @@
 ## Hi 👋! My name is Vikash Kumar and I'm a Sophomore Computer Application major, from India
-
+I am exploring various fields of computer science, with a strong focus on Web Development. I am highly proficient in the MERN stack and have worked on multiple decentralized applications and AI-based solutions.
 <!--
 **viky-01/viky-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
