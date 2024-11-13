@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋! My name is Vikash Kumar and I'm a Sophomore Computer Application major, from India
 
 <!--
 **viky-01/viky-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
