@@ -2,10 +2,12 @@
 I am exploring various fields of computer science, with a strong focus on Web Development. I am highly proficient in the MERN stack and have worked on multiple decentralized applications and AI-based solutions.
 
 ### Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+### Skills
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="40"/> 
+<img src="https://img.icons8.com/color/48/000000/typescript.png" width="40"/> 
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40"/> 
+<img src="https://img.icons8.com/color/48/000000/sql.png" width="40"/>
+
 
 <!--
 **viky-01/viky-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
